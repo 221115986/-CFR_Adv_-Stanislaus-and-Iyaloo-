@@ -1,4 +1,4 @@
-##In order to get the node_modules neccesary to run our app
+## In order to get the node_modules neccesary to run our app
 
 1.clone this repository
 
