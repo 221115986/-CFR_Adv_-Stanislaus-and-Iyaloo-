@@ -1,3 +1,8 @@
+In order to get the node_modules neccesary to run our app
+1.clone this repository
+2. run "npm -i"
+3. run ng serve
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
