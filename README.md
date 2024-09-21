@@ -1,6 +1,6 @@
 ## In order to get the node_modules neccesary to run our app
 
-1.clone this repository
+1. clone this repository
 
 2. run "npm -i"
   
